@@ -36,7 +36,12 @@ Please download the data from Baidu Netdisk with the `url` and `password` given 
 ## Citation
 If you use this dataset for your research, please consider citing our paper: 
 ```
-Wang Y J, Fan Q N, Li K, Chen D D, Yang J Y, Lu J Z, Dani Lischinski, Chen B Q . 2022. High quality rendered dataset and non-local graph convolutional network for intrinsic image decomposition. Journal of Image and Graphics, 27(2): 404-420. (王玉洁, 樊庆楠, 李坤, 陈冬冬, 杨敬钰, 卢健智, Dani Lischinski, 陈宝权. 2022. 面向本征图像分解的高质量渲染数据集与非局部卷积网络. 中国图象图形学报, 27(2): 404-420.) [DOI: 10.11834/jig.210705]
+Wang Y J, Fan Q N, Li K, Chen D D, Yang J Y, Lu J Z, Dani Lischinski, Chen B Q . 2022. 
+High quality rendered dataset and non-local graph convolutional network for intrinsic image decomposition. 
+Journal of Image and Graphics, 27(2): 404-420. 
+(王玉洁, 樊庆楠, 李坤, 陈冬冬, 杨敬钰, 卢健智, Dani Lischinski, 陈宝权. 2022. 
+面向本征图像分解的高质量渲染数据集与非局部卷积网络. 中国图象图形学报, 27(2): 404-420.) 
+[DOI: 10.11834/jig.210705]
 ```
 
 
