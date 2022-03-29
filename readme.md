@@ -17,8 +17,7 @@ In folder `raw-data`, we provide the original high resolution images, where the 
 ## Data example
 An example from our dataset is given below. 'xxx' denotes the id of a data sample. 
 
-**Input** ('resized_data/input-resize/xxx.input-resize.png':
-'xxx_input-resize.jpg')
+**Input** ('resized_data/input-resize/xxx.input-resize.png')
 
 <img src="example/02064143.input-resize.jpg" alt="MarineGEO circle logo" style="height: 180px; width:240px;"/>
 
