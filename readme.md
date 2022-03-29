@@ -1,4 +1,4 @@
-# Photorealistic Rendered Intrinsic Dataset
+# Photorealistic Intrinsic Dataset
 This dataset is a synthetic dataset for intrinsic decompostion, which provides photorealistic rendered images with ground truth albeo images and shading images.
 
 
