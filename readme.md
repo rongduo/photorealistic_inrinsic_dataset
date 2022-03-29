@@ -30,7 +30,7 @@ An example from our dataset is given below. 'xxx' denotes the id of a data sampl
 <img src="example/02064143.shading-resize.jpg" alt="MarineGEO circle logo" style="height: 180px; width:240px;"/>
 
 ## Download
-Please download the data from Baidu Netdisk with the `url` and `password` given in `download_address.txt`.
+Please download the data from Baidu Netdisk with the `link` and `password` given in `download_address.txt`.
 
 ## Citation
 If you use this dataset for your research, please consider citing our paper: 
@@ -45,4 +45,4 @@ Journal of Image and Graphics, 27(2): 404-420.
 
 
 ## Contact
-If you have any questions, please feel free to email me: `yujiew.cn@gmail.com`.
+If you have any questions, please feel free to contact us via email: `yujiew.cn@gmail.com`.
