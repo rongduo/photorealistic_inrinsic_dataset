@@ -33,11 +33,22 @@ An example from our dataset is given below. 'xxx' denotes the id of a data sampl
 Please download the data from Baidu Netdisk with the `link` and `password` given in `download_address.txt`.
 
 ## Citation
-If you use this dataset for your research, please consider citing our paper: 
+If you use this dataset for your research, please consider citing our paper:
+
 ```
-Wang Y J, Fan Q N, Li K, Chen D D, Yang J Y, Lu J Z, Dani Lischinski, Chen B Q . 2022. 
-High quality rendered dataset and non-local graph convolutional network for intrinsic image decomposition. 
-Journal of Image and Graphics, 27(2): 404-420. 
+@article{wang2022intrinsic,
+author = {Wang, Yujie and Fan, Qingnan and Li, Kun and Chen, Dongdong and Yang, Jingyu and Lu, Jianzhi and Lischinski, Dani and Chen, Baoquan},
+title = {High quality rendered dataset and non-local graph convolutional network for intrinsic image decomposition},
+journal = {Journal of Image and Graphics},
+volume = {27},
+number = {2},
+pages = {404--420},
+year = {2022},
+doi = {10.11834/jig.210705},
+}. 
+
+中文论文引用方式：
+```
 (王玉洁, 樊庆楠, 李坤, 陈冬冬, 杨敬钰, 卢健智, Dani Lischinski, 陈宝权. 2022. 
 面向本征图像分解的高质量渲染数据集与非局部卷积网络. 中国图象图形学报, 27(2): 404-420.) 
 [DOI: 10.11834/jig.210705]
