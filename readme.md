@@ -15,9 +15,11 @@ In folder `resized-data`, we provide resized images used during the network trai
 In folder `raw-data`, we provide the original high resolution images, where the data is organized in a similar way.
 
 ## Data example
-An example from our dataset is given below. 'xxx' denotes the id of a data sample. 
+A number of examples from our dataset are given below.
 
-**Input** ('resized_data/input-resize/xxx.input-resize.png')
+<img src="example/more_examples.png" alt="MarineGEO circle logo" style="height:1121 px; width:1006;"/>
+
+<!-- **Input** ('resized_data/input-resize/xxx.input-resize.png')
 
 <img src="example/02064143.input-resize.jpg" alt="MarineGEO circle logo" style="height: 180px; width:240px;"/>
 
@@ -27,10 +29,10 @@ An example from our dataset is given below. 'xxx' denotes the id of a data sampl
 
 **Shading** ('resized_data/shading-resize/xxx.shading-resize.png'):
 
-<img src="example/02064143.shading-resize.jpg" alt="MarineGEO circle logo" style="height: 180px; width:240px;"/>
+<img src="example/02064143.shading-resize.jpg" alt="MarineGEO circle logo" style="height: 180px; width:240px;"/> -->
 
 ## Download
-Please download the data from Baidu Netdisk with the `link` and `password` given in `download_address.txt`.
+Please download the data from Baidu Netdisk or Dropbox with the links given in `download_address.txt`.
 
 ## Citation
 If you use this dataset for your research, please consider citing our paper:
