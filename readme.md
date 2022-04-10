@@ -12,7 +12,7 @@ In folder `resized-data`, we provide resized images used during the network trai
 * `shading-resize`: this folder contains all of the corresponding shading images.
 * `mask-resize`: this folder contains all of the corresponding mask images, which are calculated and used for masking out some areas during loss calculation, such as areas with self-illumination, refraction, etc. 
 
-In folder `raw-data`, we provide the original high resolution images, where the data is organized in a similar way. Due to the large data volume of the original images, we will provide it later.
+In folder `raw-data`, we provide the original high resolution images, where the data is organized in a similar way. Due to the large data volume of the raw data, we will provide it later.
 
 ## Data example
 A number of examples from our dataset are given below.
