@@ -15,7 +15,7 @@ In folder `resized-data`, we provide resized images used during the network trai
 In folder `raw-data`, we provide the original high resolution images, where the data is organized in a similar way. Due to the large data volume of the raw data, we will provide it later.
 
 ## Data example
-A number of examples from our dataset are given below.
+A number of examples from our dataset are shown below.
 
 <img src="example/more_examples.png" alt="MarineGEO circle logo" style="height:1121 px; width:1006;"/>
 
