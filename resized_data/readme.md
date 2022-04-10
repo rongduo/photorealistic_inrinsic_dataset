@@ -1,1 +1,1 @@
-Please download the data from Baidu Netdisk with the given link and password in `download_address.txt`.
+Please download the data from Baidu Netdisk or Dropbox with the given links in `download_address.txt`.
