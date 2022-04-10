@@ -3,7 +3,7 @@ This dataset is a synthetic dataset for intrinsic decompostion, which provides p
 
 
 ## File structure
-There are about 20K samples in this dataset and we split them to train/test splits, which are respectively listed in in `resized_data/train_list.txt` and `resized_data/val_list.txt`. 
+There are about 20K samples in this dataset and we split them into train/test splits, which are respectively listed in `resized_data/train_list.txt` and `resized_data/val_list.txt`. 
 
 In folder `resized-data`, we provide resized images used during the network training for lowering memory costs. These images are resized to a half of their original sizes. There are several sub-folders:
 
